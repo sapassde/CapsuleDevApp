@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "760231888575",
+    "firebase_url": "https://capsuledevapp.firebaseio.com",
+    "project_id": "capsuledevapp",
+    "storage_bucket": "capsuledevapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760231888575:android:3f6adf382cc7acf22ca80a",
+        "android_client_info": {
+          "package_name": "com.capsuledevapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760231888575-pa77s4012cbbpi8ae2grn22b3eer5tts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capsuledevapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "760231888575-947vbk789eho7s69a030d9frbsrtq388.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXJz060kgqq_uCxm2RrWZTFoQobPv1TOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760231888575-947vbk789eho7s69a030d9frbsrtq388.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
